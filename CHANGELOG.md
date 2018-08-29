@@ -1,3 +1,24 @@
+## 3.3.0 (Sept, 2018)
+- Support for restoring deleted files (Nc14+)
+- Media streaming (Nc14+)
+- New media detection for AutoUpload
+- Accessibility: improved TalkBack screenreader support
+- Show outdated server warning for server <Nc12
+- Add support for device credentials
+- Show offline info / Show maintenance info
+- Improved activities screen
+- Improved file detail / sharing screen with comments
+- Improved Share link creation via bottom sheet
+- Improved Notification screen, supporting actions
+- minor UI/UX improvements
+- many bug fixes
+
+## 3.2.3 (Aug, 21, 2018)
+- Fix crash on Android < 5
+
+## 3.2.2 (Aug, 20, 2018)
+- New simple signup screen
+
 ## 3.2.1 (June, 11, 2018)
 - Enhanced file detail/sharing screen for mail-shares
 - Fix local sorting and file selection
@@ -14,10 +35,10 @@
 - many bug fixes
  
 ## 3.1.0 (Apr, 22, 2018)
-- enhance support for 8.x
-- speed improvements
-- minor UI/UX improvements
-- many bug fixes
+- Enhanced support for 8.x
+- Speed improvements
+- Minor UI/UX improvements
+- Many bug fixes
 
 ## 3.0.3 (Mar, 05, 2018)
 - Fix creating folders in auto upload
